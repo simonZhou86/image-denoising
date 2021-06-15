@@ -10,7 +10,7 @@ A little demo:
 
 ![image](https://user-images.githubusercontent.com/54770908/122059935-b4596e80-ce1f-11eb-8936-8f19f0c7831b.png)
 
-Here I used a sober filter to perform edge detection on a random input image. You could also observe the Fourier/Inverse Fourier Transformation of the image in the GUI. You can change to other filters to investigate the denoising performance
+Here I used a sober filter to perform edge detection on a random input image. You could also observe the Fourier/Inverse Fourier Transformation of the image in the GUI. You can change to other filters to investigate the denoising performance. Other demos are in the link below
 
 This repository on my website: https://sites.google.com/view/mengzhou/project/image-editor
 
