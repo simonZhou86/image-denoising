@@ -1,6 +1,6 @@
 # image-denoising
 
-A simple GUI application to denoising a random image by using 2D Fourier Transformation algorithm
+A simple GUI application to denoising and performing edge detection to a random image by using 2D Fourier Transformation algorithm
 
 Required Environment: Python2.7, Numpy, Pillow, OpenGL
 
