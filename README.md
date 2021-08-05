@@ -14,4 +14,4 @@ Here I used a sober filter to perform edge detection on a random input image. Yo
 
 This repository on my website: https://sites.google.com/view/mengzhou/project/image-editor
 
-**Please note: this is not used for any other ACADEMIC purpose**
+**Please note: this is not used for any other ACADEMIC purposes**
